@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This Project Inspired by Dea Afrizal Work'
+https://www.youtube.com/c/deaafrizal
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

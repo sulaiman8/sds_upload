@@ -6,10 +6,10 @@ const Intro = () => {
       <Container className="text-white text-center d-flex justify-content-center align-items-center">
         <Row>
           <Col>
-            <div className="title">NONTON GRATIS</div>
-            <div className="title">GAK PAKE KARCIS</div>
+            <div className="title">WARTA</div>
+            <div className="title">BERITA</div>
             <div className="introButton mt-4 text-center">
-              <Button variant="dark">Lihat Semua List</Button>
+              <Button variant="dark" href='#trending'>Lihat Berita Terkini</Button>
             </div>
           </Col>
         </Row>

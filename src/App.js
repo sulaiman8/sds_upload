@@ -2,7 +2,8 @@ import "./App.css"
 import NavigationBar from "./components/NavigationBar"
 import Intro from "./components/Intro"
 import Trending from "./components/Trending"
-import SuperHero from "./components/Superhero"
+import Otomotif from "./components/Otomotif"
+import Footer from './components/footer'
 
 import "./style/landingPage.css"
 
@@ -18,9 +19,10 @@ function App() {
         <Trending />
       </div>
 
-      <div className="superhero">
-        <SuperHero />
+      <div className="otomotif">
+        <Otomotif />
       </div>
+      <Footer/>
     </div>
   )
 }

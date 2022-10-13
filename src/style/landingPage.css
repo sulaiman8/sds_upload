@@ -5,7 +5,7 @@
 }
 
 .intro {
-  height: 300px;
+  height: 250px;
   display: flex;
   justify-content: end;
   align-items: end;
@@ -21,20 +21,24 @@
 
 .trending {
   height: auto;
-  background: url("../assets/images/bg/scifi.jpg");
+  background-color: rgb(13, 5, 134);
   background-size: cover;
+  padding-bottom: 5rem;
+  padding-top: 1rem;
 }
 
-.superhero {
+.otomotif {
   height: auto;
-  background: url("../assets/images/bg/spiderman.jpg");
+  background-color: black;
   background-size: cover;
+  padding-bottom: 5rem;
+  padding-top: 1rem;
 }
 
-.movieWrapper {
+.beritaSatu {
 }
 
-.movieImage {
+.beritaGambar {
   height: auto;
   background-color: black;
   margin: 5px;
@@ -43,4 +47,16 @@
 
 .images {
   height: 500px;
+}
+
+.footer{
+  padding: 1rem;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: larger;
 }
