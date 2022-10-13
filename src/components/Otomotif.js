@@ -2,6 +2,7 @@ import { Card, Container, Row, Col, Image } from "react-bootstrap"
 import image1 from "../assets/images/otomotif/image1.jpg"
 import image2 from "../assets/images/otomotif/image2.jpg"
 import image3 from "../assets/images/otomotif/image3.jpg"
+import React from 'react'
 
 function Otomotif() {
   return (

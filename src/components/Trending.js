@@ -2,6 +2,7 @@ import { Card, Container, Row, Col, Image } from "react-bootstrap"
 import image1 from "../assets/images/trending/image1.jpg"
 import image2 from "../assets/images/trending/image2.jpg"
 import image3 from "../assets/images/trending/image3.jpg"
+import React from 'react'
 
 const Trending = () => {
   return (
